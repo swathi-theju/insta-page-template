@@ -1,0 +1,24 @@
+.container{
+	display: flex;
+}
+.card{
+	margin-top:120px;
+}
+.meta-container {
+	margin-top:20px;
+}
+
+.card-title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	color:#57606f;
+
+}
+.card-text{
+	font-size:15px;
+	color:#8395a7;
+	font-weight:500;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing:0.3px;
+}
